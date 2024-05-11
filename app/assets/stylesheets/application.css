@@ -13,3 +13,6 @@
  *= require_tree .
  *= require_self
  */
+ #answer-container {
+  background-color: #eff1c5;
+ }
